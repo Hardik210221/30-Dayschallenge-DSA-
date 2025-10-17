@@ -10,3 +10,5 @@ Day 3 of DSA-CHALLENGE --- Pseudocode And Flowchats in Java !!
 Day 4 of DSA-CHALLENGE --- Java basic Programming with Basic code !! 
 
 Day 5 of DSA-CHALLENGE --- Java Architecture Basics !! 
+
+Day 6 of DSA=CHALLENGE --- Java input/output and debugging !! 

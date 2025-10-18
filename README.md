@@ -13,4 +13,4 @@ Day 5 of DSA-CHALLENGE --- Java Architecture Basics !!
 
 Day 6 of DSA=CHALLENGE --- Java input/output and debugging !! 
 
-dAY 7 OD DSA-CHALLENGE --- Java conditional loops 
+Day 7 of DSA-CHALLENGE --- Java conditional loops and statements !!  

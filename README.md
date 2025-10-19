@@ -14,3 +14,5 @@ Day 5 of DSA-CHALLENGE --- Java Architecture Basics !!
 Day 6 of DSA-CHALLENGE --- Java input/output and debugging !! 
 
 Day 7 of DSA-CHALLENGE --- Java conditional loops and statements !!  
+
+Day 8 of DSA-CHALLENGE --- Java Switching and Nested case !! 

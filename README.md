@@ -22,3 +22,5 @@ Day 9 of DSA-CHALLENGE --- Java Functions and methods !!
 Day 10 of DSA-CHALLENGE --- Java functions implementation !! 
 
 Day 11 of DSA-CHALLENGE --- Java function calling !! 
+
+Day 12 of DSA-CHALLENGE --- Java function Argument / Parameter !! 

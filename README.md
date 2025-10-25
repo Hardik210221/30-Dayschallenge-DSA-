@@ -24,3 +24,5 @@ Day 10 of DSA-CHALLENGE --- Java functions implementation !!
 Day 11 of DSA-CHALLENGE --- Java function calling !! 
 
 Day 12 of DSA-CHALLENGE --- Java function Argument / Parameter !! 
+
+Day 13 of DSA-CHALLENGE --- Java Arrays & Arraylist !! 

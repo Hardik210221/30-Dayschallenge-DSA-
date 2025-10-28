@@ -29,4 +29,6 @@ Day 13 of DSA-CHALLENGE --- Java Arrays & Arraylist !!
 
 Day 14 of DSA-CHALLENGE --- Jitna bhi abhi tak kiya hai ussi ki practice !! 
 
-Day 15 of DSA-CHALLENGE --- psuedo code or functions ki practice karte hue !!!
+Day 15 of DSA-CHALLENGE --- psuedo code or functions ki practice karte hue !!
+
+Day 16 of DSA-CHALLENGE --- Linear Search Algorithm questions And Solution !!
